@@ -1,12 +1,12 @@
 resampy
 python_speech_features
-filetype==1.2.0
+filetype
 numpy
 opencv-python
-gradio==4.26.0
+gradio
 psutil
 tqdm
-tensorflow==2.15
+tensorflow
 scipy
 protobuf
 cmake
